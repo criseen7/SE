@@ -1,4 +1,5 @@
 1.	Sistema de recomendaciones experto
+![alt text](Diagrama.png)
 1.1	Captura de datos del sensor
 Esta etapa corresponde a los valores iniciales que el sensor puede proporcionar, como:
 •	Niveles actuales en mg/Kg de Nitrógeno, Fósforo, Potasio.
