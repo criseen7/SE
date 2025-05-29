@@ -22,8 +22,7 @@ SE/
 
 ---
 
-![alt text](Diagrama.png)
-
+![!\[alt text\](Diagrama.png)]
 
 ---
 
