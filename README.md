@@ -20,13 +20,20 @@ SE/
 ├── README.md            # Documentación
 └── requirements.txt     # Dependencias necesarias
 
+---
+
 ![alt text](Diagrama.png)
+
+
+---
 
 ## 🛠️ Instalación
 
 1. Clona el repositorio:
     git clone https://github.com/criseen7/SE.git
     cd SE
+
+---
 
 ## 👥 Créditos
 
