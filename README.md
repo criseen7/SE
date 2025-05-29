@@ -68,5 +68,5 @@ Evite fertilización tardía: puede afectar calidad de almacenamiento
 
 ## ✍️ Autor
 
-**Cristian Enriquez**  
+**Cristofer Raziel HB**  
 GitHub: [@criseen7](https://github.com/criseen7)
