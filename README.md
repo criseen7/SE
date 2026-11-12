@@ -2,6 +2,8 @@
 
 Este proyecto implementa un sistema experto que recomienda prácticas de fertilización para el cultivo de papa. Basado en parámetros como pH, humedad del suelo y niveles de nitrógeno (N), fósforo (P) y potasio (K), el sistema sugiere la mejor forma y momento para aplicar fertilizantes.
 
+La versión de este repositorio, no es la final o la utilizada en proyecto real, es un borrador para el proyecto real
+
 ## 🧠 Objetivo
 
 Brindar recomendaciones precisas para mejorar la eficiencia en la aplicación de fertilizantes, evitar lixiviación y maximizar la calidad y el rendimiento del cultivo de papa.
